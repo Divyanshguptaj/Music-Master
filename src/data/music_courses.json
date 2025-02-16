@@ -1,0 +1,54 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Beginner Guitar Lessons",
+        "slug": "beginner-guitar-lessons",
+        "description": "Learn the basics of playing guitar with step-by-step lessons.",
+        "price": 49.99,
+        "instructor": "John Smith",
+        "isFeatured": true,
+        "image": "images/guitar-lessons.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "A complete guide to playing piano from scratch.",
+        "price": 59.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": false,
+        "image": "images/piano-lessons.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Music Production Essentials",
+        "slug": "music-production-essentials",
+        "description": "Discover the fundamentals of music production and mixing.",
+        "price": 79.99,
+        "instructor": "Michael Brown",
+        "isFeatured": true,
+        "image": "images/music-production.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Advanced Violin Techniques",
+        "slug": "advanced-violin-techniques",
+        "description": "Enhance your violin skills with expert techniques.",
+        "price": 69.99,
+        "instructor": "Sophia Lee",
+        "isFeatured": false,
+        "image": "images/violin-lessons.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Singing Masterclass",
+        "slug": "singing-masterclass",
+        "description": "Improve your vocal range and performance skills.",
+        "price": 89.99,
+        "instructor": "David Wilson",
+        "isFeatured": true,
+        "image": "images/singing-masterclass.jpg"
+      }
+    ]
+  }
