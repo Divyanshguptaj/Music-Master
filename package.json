@@ -10,10 +10,16 @@
   },
   "dependencies": {
     "clsx": "^2.1.1",
+    "icons-react": "^3.7.1",
+    "mini-svg-data-uri": "^1.4.4",
     "motion": "^12.4.3",
     "next": "15.1.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-element-to-jsx-string": "^17.0.0",
+    "simplex-noise": "^4.0.3",
+    "sonner": "^1.7.4",
+    "sooner": "^1.1.4",
     "tailwind-merge": "^3.0.1"
   },
   "devDependencies": {
