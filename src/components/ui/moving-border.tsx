@@ -1,5 +1,5 @@
 "use client";
-import React, { JSX, useRef } from "react";
+import React, { useRef } from "react";
 import {
   motion,
   useAnimationFrame,
